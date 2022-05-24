@@ -11,3 +11,6 @@ Some java util codes
 
     One better method for checking whether the number is Odd
 
+### LRUCache
+    Simple LRUCache
+
