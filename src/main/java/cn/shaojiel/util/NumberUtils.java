@@ -1,7 +1,7 @@
 package cn.shaojiel.util;
 
-public class NumberUtil {
-    private NumberUtil() {}
+public final class NumberUtils {
+    private NumberUtils() {}
 
     /**
      * 判断数字是否是奇数
